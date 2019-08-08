@@ -1,6 +1,6 @@
 # Programming Basics: Comparison Operators
 
-## These exercises are aimed at making you familiar with the comparison operators. **Print all your checks to the console.**
+These exercises are aimed at making you familiar with the comparison operators. **Print all your checks to the console.**
 
 0. Declare two variables "x" and "y". Assign a value of 20 to x. Assign a value of 30 to y. 
 
