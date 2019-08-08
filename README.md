@@ -22,4 +22,6 @@
 
 9. Check whether the remainder of x divided by z and the remainder of y divided by z are equal.  
 
-10. Check whether z added to x is greater than y minus z. If it is not, find an operator which will give a result of true. 
+10. Check whether z added to x is greater than y minus z. If it is not, find an operator which will give a result of true.
+
+11. BONUS CHALLENGE: Try increasing script readability by adding strings, question headings and line breaks, etc, to your output.
