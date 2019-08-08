@@ -14,7 +14,7 @@
 
 5. Check whether y is greater than x. 
 
-6. Declare another variable "z" and give it a value of 5. Multiply z and x and, check whether this result is greater than z added to y. 
+6. Declare another variable "z" and give it a value of 5. Multiply z and x, and check whether this result is greater than z added to y. 
 
 7. Subtract z from x and check whether this result is less than y divided by z. 
 
