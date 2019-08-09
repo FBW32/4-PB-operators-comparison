@@ -24,4 +24,4 @@ These exercises are aimed at making you familiar with the comparison operators. 
 
 10. Check whether z added to x is greater than y minus z. If it is not, find an operator which will give a result of true.
 
-11. BONUS CHALLENGE: Try increasing script readability by adding strings, question headings and line breaks, etc, to your output.
+11. BONUS CHALLENGE: Try increasing script readability by adding question headings to your output before each result.
