@@ -20,18 +20,18 @@ console.log(apples < oranges); // true
 
 // 6.
 let mangoes = 5;
-console.log(mangoes * apples > mangoes + oranges); // true
+console.log((mangoes * apples) > (mangoes + oranges)); // true
 
 // 7.
-console.log(apples - mangoes < oranges / mangoes); // false
+console.log((apples - mangoes) < (oranges / mangoes)); // false
 
 // 8.
 console.log(mangoes == apples == oranges); // false
 
 // 9.
-console.log(apples % mangoes) == (oranges % mangoes); // 0
+console.log((apples % mangoes) == (oranges % mangoes)); // true
 
 // 10.
-console.log(mangoes + apples > oranges - mangoes); // false
-console.log(mangoes++ + apples > oranges - mangoes); // true
+console.log((mangoes + apples) > (oranges - mangoes)); // false
+console.log((mangoes++ + apples) > (oranges - mangoes)); // true
 
